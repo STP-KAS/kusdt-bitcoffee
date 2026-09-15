@@ -35,6 +35,8 @@ It is **not** ready to execute as a mainnet dollar.
 6. Restored the original Ishum POS on [sixpack.wtf](https://sixpack.wtf/till.html) so KAS / kUSD / USDT can be chosen as a PoC. Receive address = groks-wallet (`kaspatest:qzffl5…v0ldx`).
 7. Mapped every STP-KAS repo against this protocol ([poc-revisited](https://github.com/STP-KAS/poc-revisited)).
 
+**Live till payment:** invoice `i25561d78cc16` (€2.50 → 82.64762669 KAS) paid from groks-wallet as TN10 tx [`a7a04250…28e7`](https://explorer-tn10.kaspa.org/txs/a7a042501c32cfede58d8672b12a86deaaa2f538606d82002d2e286e689028e7). Ishum matched the payload and marked **Settled**. Details: [WALLET-TEST.md](WALLET-TEST.md).
+
 Did **not** open a new BitCoffee Position from this wallet in this pass. That needs their Python builder, the live Module outpoint, and a TN10 key in `.env`. The published multi-wallet auction already used distinct owner / challenger / bidder keys on-chain.
 
 Local `cargo test --locked --all-targets` of `bitcoffee0/kusd` at SilverScript `3ed9733`: **88 passed, 0 failed** (Windows, rustc 1.94.0). That is their consensus/indexer suite, not a mainnet audit.
