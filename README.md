@@ -37,6 +37,8 @@ It is **not** ready to execute as a mainnet dollar.
 
 Did **not** open a new BitCoffee Position from this wallet in this pass. That needs their Python builder, the live Module outpoint, and a TN10 key in `.env`. The published multi-wallet auction already used distinct owner / challenger / bidder keys on-chain.
 
+Local `cargo test --locked --all-targets` of `bitcoffee0/kusd` at SilverScript `3ed9733`: **88 passed, 0 failed** (Windows, rustc 1.94.0). That is their consensus/indexer suite, not a mainnet audit.
+
 ## Why Grok named kUSD first
 
 Two weeks earlier the desk asked Grok to think about a Kaspa-native dollar so dapps sequenced on L1 would not have to wait for Tether.
