@@ -45,7 +45,7 @@ Local `cargo test --locked --all-targets` of `bitcoffee0/kusd` at SilverScript `
 
 Two weeks earlier the desk asked Grok to think about a Kaspa-native dollar so dapps sequenced on L1 would not have to wait for Tether.
 
-What existed: Parker (1 locked sompi), PegLab (WILL DEPEG), Ishum (EUR keypad), Gramlane (grams), sixpack.wtf (x402 = native KAS), Kasplex USDT/USDC on L2.
+What existed: Parker (1 locked sompi), PegLab (WILL DEPEG), Ishum (EUR keypad), Gramlane (grams), sixpack.wtf (x402 = native KAS).
 
 What was missing: one working lesson that puts a freeze-capable dollar next to a PoW rail. Grok reserved the name **kUSD** as a till seat: “if someone posts reserves/collateral.” No asset. No covenant. Master file: dollars 0–0.
 
