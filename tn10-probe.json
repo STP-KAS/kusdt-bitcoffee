@@ -1,0 +1,253 @@
+{
+  "at": "2026-09-15T06:03:38Z",
+  "network": "kaspa-testnet-10",
+  "wallet": "kaspatest:qzffl5xy9np46gkttyuftqnv2w04pr8g3wsp7c3vv8se3txtelx6q7c0v0ldx",
+  "warning": "TN10 tKAS has no monetary value. No seeds in this file.",
+  "tn10": {
+    "ok": true,
+    "networkName": "kaspa-testnet-10",
+    "virtualDaaScore": "570938367",
+    "blockCount": "1408211",
+    "difficulty": 1438646.6890881208
+  },
+  "kas_usd": 0.03503808,
+  "groks_wallet": {
+    "address": "kaspatest:qzffl5xy9np46gkttyuftqnv2w04pr8g3wsp7c3vv8se3txtelx6q7c0v0ldx",
+    "balance_sompi": 103312788016483,
+    "balance_tkas": 1033127.88016483,
+    "utxo_count": 329884,
+    "utxo_script_types_sample": {
+      "?": 200
+    }
+  },
+  "peglab": {
+    "address": "kaspatest:qzpvdakagvwfm95g8pv9ndpupjtndgjfhmve08cg3tv5wgfytjzf7cudwwzv0",
+    "balance": 27397268809886
+  },
+  "kusd_published_txs": {
+    "governed_module": {
+      "transaction_id": "2d571d6b9b12d7f24e745cbb72ea4a825cd04566760773b77ac350624a324453",
+      "is_accepted": true,
+      "mass": "397932",
+      "block_time": 1789045812087,
+      "accepting_block_blue_score": 555920451,
+      "input_count": 6,
+      "output_count": 8,
+      "contains_kusd_asset_id": true,
+      "output_amounts_sompi": [
+        100000000,
+        100000000,
+        100000000,
+        100000000,
+        100000000,
+        100000000,
+        100000000,
+        795315473000
+      ],
+      "output_script_public_key_types": [
+        "scripthash",
+        "scripthash",
+        "scripthash",
+        "scripthash",
+        "scripthash",
+        "pubkey",
+        "scripthash",
+        "pubkey"
+      ]
+    },
+    "savings_activation": {
+      "transaction_id": "472af9468824ae3a2a3cda0f82d28bc7633d5bd872111f21c8d4342e0b331a92",
+      "is_accepted": true,
+      "mass": "304692",
+      "block_time": 1789045825420,
+      "accepting_block_blue_score": 555920591,
+      "input_count": 4,
+      "output_count": 4,
+      "contains_kusd_asset_id": true,
+      "output_amounts_sompi": [
+        100000000,
+        100000000,
+        100000000,
+        795155550600
+      ],
+      "output_script_public_key_types": [
+        "scripthash",
+        "scripthash",
+        "pubkey",
+        "pubkey"
+      ]
+    },
+    "repay_close": {
+      "transaction_id": "680c64086774ae30d027dd745ad9d75d6496cb3d2ac270efefec1a652157c327",
+      "is_accepted": true,
+      "mass": "371824",
+      "block_time": 1789047890610,
+      "accepting_block_blue_score": 555941239,
+      "input_count": 3,
+      "output_count": 2,
+      "contains_kusd_asset_id": true,
+      "output_amounts_sompi": [
+        100000000000,
+        694901687200
+      ],
+      "output_script_public_key_types": [
+        "pubkey",
+        "pubkey"
+      ]
+    },
+    "savings_withdraw": {
+      "transaction_id": "d34343598556d997cd190012f637b76e7c413180ea9ab4293145010ace1120c5",
+      "is_accepted": true,
+      "mass": "244064",
+      "block_time": 1789050248333,
+      "accepting_block_blue_score": 555964951,
+      "input_count": 4,
+      "output_count": 4,
+      "contains_kusd_asset_id": true,
+      "output_amounts_sompi": [
+        100000000,
+        100000000,
+        100000000,
+        694611876300
+      ],
+      "output_script_public_key_types": [
+        "scripthash",
+        "scripthash",
+        "pubkey",
+        "pubkey"
+      ]
+    },
+    "auction_backstop": {
+      "transaction_id": "67179c8b50079d4454027c5b4a8acc536faad2a224c3b4b018eff11fb441c678",
+      "is_accepted": true,
+      "mass": "266346",
+      "block_time": 1789052383148,
+      "accepting_block_blue_score": 555985989,
+      "input_count": 7,
+      "output_count": 5,
+      "contains_kusd_asset_id": true,
+      "output_amounts_sompi": [
+        200000000,
+        200000000,
+        100100000000,
+        100000000000,
+        493967158300
+      ],
+      "output_script_public_key_types": [
+        "scripthash",
+        "scripthash",
+        "scripthash",
+        "pubkey",
+        "pubkey"
+      ]
+    },
+    "multiwallet_auction": {
+      "transaction_id": "b4d7e2e4efdf24efe1bfe2200f96245a516b503baa397579726966bf555738e5",
+      "is_accepted": true,
+      "mass": "326525",
+      "block_time": 1789055317037,
+      "accepting_block_blue_score": 556015490,
+      "input_count": 6,
+      "output_count": 5,
+      "contains_kusd_asset_id": true,
+      "output_amounts_sompi": [
+        100000000,
+        100000000,
+        100000000000,
+        100000000000,
+        1067347500
+      ],
+      "output_script_public_key_types": [
+        "scripthash",
+        "scripthash",
+        "pubkey",
+        "pubkey",
+        "pubkey"
+      ]
+    }
+  },
+  "kusd_ids": {
+    "kusd_asset": "a2d81080bd74ab419f0bfea73b20c5154100520be15d68a190a5d1adf52f32b5",
+    "kps_asset": "9afc6670400d5615205b2f8549ad64cfe91b4cf374ed72ab57eff7598460d9c0",
+    "root_issuance": "5adf5c5bde359a4ac67f8a5cc14b570bac89e503a0e369b019acc470036eced6",
+    "equity_reserve": "a07b07b3cb3d0658f258092e65f315837a8a2646c89cab5bbe1094adf0a7a4fd",
+    "governance": "5611bead5db547c6b0c75a79f604ba8cb3b9e745af8c71540eacd74b8d1f479e",
+    "bootstrap_module": "b2ca093ae9178360878ec861df8867c4776467ec16fb7fc5170fc1e50f49670a",
+    "governed_module": "c42f74584dbdebb7713f9128732a80c14075f5806ade5f37448205450f0fedb9"
+  },
+  "local_ports": {
+    "16110": true,
+    "16111": true,
+    "16210": true,
+    "16211": true,
+    "17210": true,
+    "18210": true,
+    "8090": true,
+    "4020": true,
+    "4050": true,
+    "8765": true
+  },
+  "local_rpc": {
+    "getInfo": {
+      "error": "Remote end closed connection without response",
+      "method": "getInfo"
+    },
+    "getBlockDagInfo": {
+      "error": "[WinError 10053] An established connection was aborted by the software in your host machine",
+      "method": "getBlockDagInfo"
+    },
+    "getBalanceByAddress": {
+      "error": "[WinError 10054] An existing connection was forcibly closed by the remote host",
+      "method": "getBalanceByAddress"
+    }
+  },
+  "sisters": {
+    "ishum_8090": false,
+    "sixpack_4020": true,
+    "showcase_4050": true
+  },
+  "tx_verdict": {
+    "governed_module": {
+      "accepted": true,
+      "contains_asset": true,
+      "mass": "397932",
+      "inputs": 6,
+      "outputs": 8
+    },
+    "savings_activation": {
+      "accepted": true,
+      "contains_asset": true,
+      "mass": "304692",
+      "inputs": 4,
+      "outputs": 4
+    },
+    "repay_close": {
+      "accepted": true,
+      "contains_asset": true,
+      "mass": "371824",
+      "inputs": 3,
+      "outputs": 2
+    },
+    "savings_withdraw": {
+      "accepted": true,
+      "contains_asset": true,
+      "mass": "244064",
+      "inputs": 4,
+      "outputs": 4
+    },
+    "auction_backstop": {
+      "accepted": true,
+      "contains_asset": true,
+      "mass": "266346",
+      "inputs": 7,
+      "outputs": 5
+    },
+    "multiwallet_auction": {
+      "accepted": true,
+      "contains_asset": true,
+      "mass": "326525",
+      "inputs": 6,
+      "outputs": 5
+    }
+  }
+}
