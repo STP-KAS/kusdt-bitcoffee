@@ -109,3 +109,12 @@ Asked on [X, 15 Sep 2026](https://x.com/StppStp/status/2099737095065538930):
 ## License
 
 MIT. No warranty. Not financial advice. Not Kaspa core.
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
